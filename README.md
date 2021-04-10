@@ -1,5 +1,5 @@
 # CrossCountryAnalysis
-A simple analysis of a cross country race of runners.
+A simple analysis of cross country runners.
 
 # What I Learned
 * Use Google CoLab with Github
